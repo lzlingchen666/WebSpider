@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15b8c738-d05e-49ed-aa24-2aef21b5eee5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wallhaven.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/wallhaven.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +31,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.wallpaper (1)">
+  <component name="RunManager" selected="Python.wallhaven">
     <configuration name="胡萝卜周" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="网络爬虫" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,6 +70,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wallhaven" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="网络爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/wallhaven.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,6 +146,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wallhaven" />
         <item itemvalue="Python.wallpaper (1)" />
         <item itemvalue="Python.image" />
         <item itemvalue="Python.胡萝卜周" />
@@ -144,43 +168,61 @@
       <workItem from="1584446292463" duration="6383000" />
       <workItem from="1585192282051" duration="5000" />
       <workItem from="1585226558751" duration="6661000" />
+      <workItem from="1585377368586" duration="3514000" />
     </task>
+    <task id="LOCAL-00001" summary="添加了wallhaven.py文件,这是用来抓取wallhaven壁纸网站的爬虫">
+      <created>1585377494269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585377494269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加了wallhaven.py文件,这是用来抓取wallhaven壁纸网站的爬虫" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了wallhaven.py文件,这是用来抓取wallhaven壁纸网站的爬虫" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="292" y="30" key="CommitChangelistDialog2" timestamp="1585377492466">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="292" y="30" key="CommitChangelistDialog2/0.30.1366.738@0.30.1366.738" timestamp="1585377492466" />
     <state x="463" y="153" key="FileChooserDialogImpl" timestamp="1583934038135">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="463" y="153" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1583934038135" />
-    <state width="1323" height="400" key="GridCell.Tab.0.bottom" timestamp="1585235158462">
+    <state width="1325" height="312" key="GridCell.Tab.0.bottom" timestamp="1585380638251">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1323" height="400" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1585235158462" />
-    <state width="1323" height="400" key="GridCell.Tab.0.center" timestamp="1585235158462">
+    <state width="1325" height="312" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1585380638251" />
+    <state width="1325" height="312" key="GridCell.Tab.0.center" timestamp="1585380638251">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1323" height="400" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1585235158462" />
-    <state width="1323" height="400" key="GridCell.Tab.0.left" timestamp="1585235158462">
+    <state width="1325" height="312" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1585380638251" />
+    <state width="1325" height="312" key="GridCell.Tab.0.left" timestamp="1585380638250">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1323" height="400" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1585235158462" />
-    <state width="1323" height="400" key="GridCell.Tab.0.right" timestamp="1585235158462">
+    <state width="1325" height="312" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1585380638250" />
+    <state width="1325" height="312" key="GridCell.Tab.0.right" timestamp="1585380638251">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1323" height="400" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1585235158462" />
-    <state x="155" y="51" key="SettingsEditor" timestamp="1585227030197">
+    <state width="1325" height="312" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1585380638251" />
+    <state x="155" y="51" key="SettingsEditor" timestamp="1585378532194">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="155" y="51" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1585227030197" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585229083504">
+    <state x="155" y="51" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1585378532194" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585378287439">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1366.738@0.30.1366.738" timestamp="1585229083504" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1366.738@0.30.1366.738" timestamp="1585378287439" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$wallhaven.coverage" NAME="wallhaven Coverage Results" MODIFIED="1585380638228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/$image.coverage" NAME="image Coverage Results" MODIFIED="1584452168584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$wallpaper.coverage" NAME="wallpaper Coverage Results" MODIFIED="1583934118544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$wallpaper__1_.coverage" NAME="wallpaper (1) Coverage Results" MODIFIED="1585231680077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
