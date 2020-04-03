@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15b8c738-d05e-49ed-aa24-2aef21b5eee5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wallhaven.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/wallhaven.py" afterDir="false" />
-    </list>
+    <list default="true" id="15b8c738-d05e-49ed-aa24-2aef21b5eee5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,7 +165,7 @@
       <workItem from="1584446292463" duration="6383000" />
       <workItem from="1585192282051" duration="5000" />
       <workItem from="1585226558751" duration="6661000" />
-      <workItem from="1585377368586" duration="3514000" />
+      <workItem from="1585377368586" duration="3935000" />
     </task>
     <task id="LOCAL-00001" summary="添加了wallhaven.py文件,这是用来抓取wallhaven壁纸网站的爬虫">
       <created>1585377494269</created>
@@ -196,22 +193,22 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="463" y="153" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1583934038135" />
-    <state width="1325" height="312" key="GridCell.Tab.0.bottom" timestamp="1585380638251">
+    <state width="1325" height="312" key="GridCell.Tab.0.bottom" timestamp="1585381333341">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1325" height="312" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1585380638251" />
-    <state width="1325" height="312" key="GridCell.Tab.0.center" timestamp="1585380638251">
+    <state width="1325" height="312" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1585381333341" />
+    <state width="1325" height="312" key="GridCell.Tab.0.center" timestamp="1585381333341">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1325" height="312" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1585380638251" />
-    <state width="1325" height="312" key="GridCell.Tab.0.left" timestamp="1585380638250">
+    <state width="1325" height="312" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1585381333341" />
+    <state width="1325" height="312" key="GridCell.Tab.0.left" timestamp="1585381333341">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1325" height="312" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1585380638250" />
-    <state width="1325" height="312" key="GridCell.Tab.0.right" timestamp="1585380638251">
+    <state width="1325" height="312" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1585381333341" />
+    <state width="1325" height="312" key="GridCell.Tab.0.right" timestamp="1585381333341">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1325" height="312" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1585380638251" />
+    <state width="1325" height="312" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1585381333341" />
     <state x="155" y="51" key="SettingsEditor" timestamp="1585378532194">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
